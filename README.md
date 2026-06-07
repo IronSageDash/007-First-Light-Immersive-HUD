@@ -62,10 +62,6 @@ Perfect for:
 
 ### Main Gameplay
 
-![Gameplay](assets/screenshot-main.png)
-
-### Before / After
-
 ![Comparison](assets/comparison.png)
 
 ---
