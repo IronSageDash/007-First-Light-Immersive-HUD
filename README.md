@@ -7,6 +7,11 @@ Immersive HUD mod for 007 First Light — Q-lens objective toggle, no hitmarkers
   <img src="assets/banner.png" alt="007 First Light Immersive HUD Banner">
 </p>
 
+![Downloads](https://img.shields.io/github/downloads/IronSageDash/007-First-Light-Immersive-HUD/total)
+![Release](https://img.shields.io/github/v/release/IronSageDash/007-First-Light-Immersive-HUD)
+![License](https://img.shields.io/github/license/IronSageDash/007-First-Light-Immersive-HUD)
+![Issues](https://img.shields.io/github/issues/IronSageDash/007-First-Light-Immersive-HUD)
+
 <p align="center">
   <strong>A cleaner, more immersive HUD experience for 007 First Light.</strong>
 </p>
